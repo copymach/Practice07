@@ -2,6 +2,7 @@ package com.javaex.ex02;
 
 public class BirdApp {
 
+//	이곳의 내용은 변경하지 않습니다.
     public static void main(String[] args) {
         Bird bird01 = new Duck();
         bird01.setName("꽥꽥이");

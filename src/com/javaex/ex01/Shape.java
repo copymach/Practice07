@@ -8,6 +8,9 @@ public abstract class Shape {
 		this.fillColor=fillColor;
 	}
 	
+
+
+	
 	public abstract void draw();
 }
 
